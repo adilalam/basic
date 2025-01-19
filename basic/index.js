@@ -5,3 +5,7 @@ const widget = () => {
     alert("widget")
     console.log("add functin");
 }
+
+const user = () => {
+    console.log("user email");
+}
