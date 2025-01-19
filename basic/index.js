@@ -9,3 +9,6 @@ const widget = () => {
 const user = () => {
     console.log("user email");
 }
+const auth = () => {
+    console.log("user auth");
+}
